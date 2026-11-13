@@ -34,9 +34,17 @@ The project explores the following design areas:
 
 ## My Contribution
 
-I was responsible for writing the project's Game Design Document (GDD), organizing and documenting its design vision, gameplay systems, mechanics, narrative, and other design specifications.
+My main responsibilities throughout the project included:
 
-The project was developed collaboratively by a four-member team.
+- **Game Design Documentation:** Authored the Game Design Document (GDD), documenting the game's vision, mechanics, systems, narrative, and design specifications.
+- **Level Design:** Participated in the design and planning of levels and game environments.
+- **Quality Assurance (QA):** Conducted gameplay testing, identified issues, and collaborated on bug fixes and improvements.
+- **Team Coordination:** Helped organize team activities, coordinate tasks, and follow up on project progress.
+- **Programming Support:** Assisted with debugging and code corrections, as well as interface-related tasks in Unity.
+
+## Team Collaboration
+
+This project was developed collaboratively by a four-member team. Responsibilities were shared across different areas of development.
 
 ## Documentation
 

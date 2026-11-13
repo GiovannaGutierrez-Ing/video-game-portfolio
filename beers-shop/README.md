@@ -27,7 +27,11 @@ Gameplay mechanics, design decisions, and development details will be added as t
 
 Media
 
-Screenshots and gameplay footage will be added here.
+![Beers Shop - Screenshot 1](Imagen2.jpg)
+
+![Beers Shop - Screenshot 2](Imagen3.jpg)
+
+![Beers Shop - Screenshot 3](Imagen4.jpg)
 
 Credits
 

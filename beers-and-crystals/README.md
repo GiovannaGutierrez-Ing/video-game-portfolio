@@ -54,7 +54,21 @@ The GDD documents the game's design vision, gameplay mechanics, systems, narrati
 
 ## Media
 
-Screenshots and gameplay footage will be added here.
+
+### Gameplay
+![Gameplay](Gameplay.png)
+
+### Combat
+![Combat](Combate.png)
+
+### Level Design
+![Level Design](Nivel.png)
+
+### Visual Elements
+![Visual Elements](Elementos%20visuales.png)
+
+### Main Menu
+![Main Menu](Menú.png)
 
 ## Credits
 

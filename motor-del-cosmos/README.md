@@ -37,6 +37,25 @@ This project was documented in the chapter:
 
 *Libro Blanco del Desarrollo de Videojuegos 2024–2025, Second Edition.*
 
+## Media
+
+### Orbital Simulation
+
+[Watch the Orbital Simulation Demo](https://github.com/GiovannaGutierrez-Ing/video-game-portfolio/releases/download/motor-del-cosmos-v1.0/Orbital-Simulation.mp4)
+
+### Screenshots
+
+#### Solar System
+![Solar System](Solar-System.png)
+
+#### Planets
+![Planets](Planets.png)
+
+#### Time Controls
+![Time Controls](Time-Controls.png)
+
+#### Simulation Details
+![Simulation Details](Simulation-Details.png)
 ## Team Collaboration
 
 Developed collaboratively as part of a university project. The technical implementation and project responsibilities were shared among team members.

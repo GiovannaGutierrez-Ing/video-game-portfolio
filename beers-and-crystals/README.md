@@ -40,7 +40,9 @@ The project was developed collaboratively by a four-member team.
 
 ## Documentation
 
-The Game Design Document will be included in this section as a supporting project artifact.
+- [Game Design Document (GDD)](GDD_Final Modular 2_Beers and Crystals.pdf)
+
+The GDD documents the game's design vision, gameplay mechanics, systems, narrative, world-building, and other development specifications.
 
 ## Media
 

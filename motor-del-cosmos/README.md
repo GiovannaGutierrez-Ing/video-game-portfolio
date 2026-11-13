@@ -49,7 +49,7 @@ This project was documented in the chapter:
 ![Solar System](Solar-System.png)
 
 #### Planets
-![Planets](Planets.png)
+![Planets](Planet.png)
 
 #### Time Controls
 ![Time Controls](Time-Controls.png)
